@@ -1,0 +1,14 @@
+5
+7
+images/skin2bg.png
+images/skin2btnSpin.png
+images/skin2btnSpinPressed.png
+images/skin2btnWin.png
+images/skin2btnLose.png
+images/skintwo1.png
+images/skintwo2.png
+images/skintwo3.png
+images/skintwo4.png
+images/skintwo5.png
+images/skintwo6.png
+images/skintwo7.png
